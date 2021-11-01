@@ -5,7 +5,7 @@ Dans le monde concurrentiel d'aujourd'hui, il est crucial de comprendre le compo
 
 
 ### Sommaire
-1. Importation de bibliothèques.
-2. Exploration des données.
-3. Visualisation des données.
-4. Clustering à l'aide de K-Means.
+1. Importation de bibliothèques
+2. Exploration des données
+3. Visualisation des données
+4. Clustering à l'aide de K-Means
